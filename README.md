@@ -79,13 +79,4 @@
 
 ---
 
-## 💬 Цитата дня
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</p>
-
-<!-- ═══════════ ANIMATED WAVE FOOTER ═══════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e9bf0,60:1f3b73,100:0d1117&height=140&section=footer" width="100%" alt="footer" />
-</p>
