@@ -57,17 +57,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PsakerMosPOL&theme=tokyo-night&hide_border=true&area=true&custom_title=Граф%20активности" width="100%" alt="activity graph" />
 </p>
 
----
 
-## 🏆 Трофеи
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PsakerMosPOL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-</p>
-
----
-
-## 🐍 Змейка по графу контрибуций
+## 🐍 
 
 <p align="center">
   <picture>
