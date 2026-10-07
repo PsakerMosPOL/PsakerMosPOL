@@ -23,11 +23,10 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
 
-- 💻 Пишу код и собираю проекты на **JavaScript / TypeScript / Python / C++**
+- 💻 
 - 🌐 Интересуюсь веб-разработкой и всякими интересными штуками
 - 🌱 Постоянно учусь новому и прокачиваю навыки
 - ⚡ Люблю разбираться, как всё устроено под капотом
-- 📫 Связь: **Psayker59@gmail.com**
 
 <br clear="right" />
 
